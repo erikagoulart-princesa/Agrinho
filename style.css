@@ -24,3 +24,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
 }
+.card-informativo img {
+    display: block;
+    margin-bottom: 200px; /* Cria um espaço entre a imagem e o botão */
+}
